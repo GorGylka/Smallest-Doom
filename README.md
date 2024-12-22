@@ -1,6 +1,8 @@
 # RP2040 Doom
 
-
+![1](1.jpg)
+![2](2.jpg)
+![3](3.jpg)
 This is a fork of RP2040 Doom targeting the Thumby. It switches the display between different contrast levels fast enough to generate
 pretty reasonable greyscale. Sound is currently unsupported. It doesn't overclock the device like the VGA version.
 
