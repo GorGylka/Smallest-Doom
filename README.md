@@ -1,4 +1,15 @@
 # RP2040 Zero Doom
+**Required parts**
+
+1-RP2040 Zero<br/>
+2-SSD1306 7-pin 72x40 0.42" OLED display<br/>
+3-EASYCHARGE ECC<br/>
+4-Digital SMD Tact Switch Joystick<br/>
+5-2x Tactile SMD Buttons (you can re-use BOOT and RESET Button from RP2040) <br/>
+6-SMD slide switch 3-pin <br/>
+7-Li-ion battery 20mah or above (mine is from AirPods Pro earbuds battery)<br/>
+ 
+
 ![FDVDB](https://github.com/GorGylka/Smallest-Doom/blob/rp2040/demo.gif)
 ![1](1.jpg)
 ![2](2.jpg)
